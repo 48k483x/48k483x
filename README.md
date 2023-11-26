@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently studying in [42-1337](1337.ma)
 
-- 👨‍💻 All of my projects are available at [https://github.com/48k483x?tab=repositories](https://github.com/48k483x?tab=repositories)
+- 👨‍💻 All of my projects are available at [ALL MY REPOSOTRIES] (https://github.com/48k483x?tab=repositories)
 
 - 💬 Ask me about **EVERYTHING**
 
