@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently studying in [42-1337](1337.ma)
-- 👨‍💻 All of my projects are available at [ALL MY REPOSOTRIES] (https://github.com/48k483x?tab=repositories)
+- 👨‍💻 All of my projects are available at [ALL MY REPOSOTRIES](https://github.com/48k483x?tab=repositories)
 - 💬 Ask me about **EVERYTHING**
 - 📫 How to reach me **abderrahmanech@outlook.fr**
 <div> <a href="https://twitter.com/48k483x" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
