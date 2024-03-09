@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm 48k483x (ABDURRAHMAN)</h1>
 <h3 align="center">A passionate computer science from 🇲🇦</h3>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
 - 🌱 I’m currently studying in [42-1337](https://1337.ma/)
 - 👨‍💻 All of my projects are available at [ALL MY REPOSOTRIES](https://github.com/48k483x?tab=repositories)
 - 📫 How to reach me **abderrahmanech@outlook.fr**
