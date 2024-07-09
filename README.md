@@ -3,11 +3,11 @@
 <h3 align="center">A passionate computer science from 🇲🇦</h3>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently studying in [42-1337](https://1337.ma/)
-- 👨‍💻 All of my projects are available at [ALL MY REPOSOTRIES](https://github.com/48k483x?tab=repositories)
-- 📫 How to reach me **abderrahmanech@outlook.fr**
+- 🌱 Currently honing my skills at [42-1337](https://1337.ma/)
+- 👨‍💻 Explore my project portfolio: [View All Repositories](https://github.com/48k483x?tab=repositories)
+- 📫 Get in touch: [abderrahmanech@outlook.fr](mailto:abderrahmanech@outlook.fr)
 <div> <a href="https://twitter.com/48k483x" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://github.com/48k48x" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/48k483x" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:abderrahmanech@outlook.fr"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
