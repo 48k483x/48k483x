@@ -1,6 +1,6 @@
 <img width="100%" alt="Developer Illustration" src="https://github.com/48k483x/48k483x/blob/main/DALL%C2%B7E%202024-01-12%2011.47.13%20-%20Create%20an%20animated%20GIF%20in%20a%20surreal%2C%20fantasy%20style%20featuring%20a%20vibrant%20metaverse%20setting.%20Imagine%20a%20luminous%20figure%20seated%20on%20an%20ancient%2C%20rune-inscrib.png"/>
-<h1 align="center">Hi 👋, I'm 48k483x (ABDURRAHMAN)</h1>
-<h3 align="center">A passionate computer science from 🇲🇦</h3>
+<h1 align="center">Hi 👋, I'm (ABDU)</h1>
+<h3 align="center">A passionate computer science </h3> 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <div align="center">
