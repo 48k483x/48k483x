@@ -1,10 +1,17 @@
 <div align="center">
-  
-  ![Developer Illustration](https://github.com/48k483x/48k483x/blob/main/DALL%C2%B7E%202024-01-12%2011.47.13%20-%20Create%20an%20animated%20GIF%20in%20a%20surreal%2C%20fantasy%20style%20featuring%20a%20vibrant%20metaverse%20setting.%20Imagine%20a%20luminous%20figure%20seated%20on%20an%20ancient%2C%20rune-inscrib.png)
 
-  # Hi there, I'm ABDU 👋
+```ascii
+██╗  ██╗███████╗██╗     ██╗      ██████╗      ██╗
+██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ███║
+███████║█████╗  ██║     ██║     ██║   ██║    ╚██║
+██╔══██║██╔══╝  ██║     ██║     ██║   ██║     ██║
+██║  ██║███████╗███████╗███████╗╚██████╔╝     ██║
+╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝      ╚═╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Mobile+Developer;Low-level+Programming+Enthusiast;42+Student;System+Architecture+Passionate)](https://git.io/typing-svg)
   
-  *Mobile App Developer & Low-level Programming Enthusiast*
+  *Mobile App Developer & Low-level Programming Enthusiast | 42-1337 Student*
 
   [![42 School](https://img.shields.io/badge/42--1337-000000?style=for-the-badge&logo=42&logoColor=white)](https://1337.ma/)
   [![Profile Views](https://komarev.com/ghpvc/?username=48k483x&style=for-the-badge&color=0e75b6)](https://github.com/48k483x)
