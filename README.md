@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝      ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Mobile+Developer;Low-level+Programming+Enthusiast;42+Student;System+Architecture+Passionate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Low-level+Programming+Enthusiast;42+Student;System+Architecture+Passionate)](https://git.io/typing-svg)
   
   *Mobile App Developer & Low-level Programming Enthusiast | 42-1337 Student*
 
