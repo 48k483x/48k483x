@@ -17,7 +17,7 @@
   [![Profile Views](https://komarev.com/ghpvc/?username=48k483x&style=for-the-badge&color=0e75b6)](https://github.com/48k483x)
 
   <br>
-  <code>🚧 Currently crafting: **webserv** - Building an HTTP server from scratch in C++</code>
+  <code>🚧 Currently  Building an **HTTP** server from scratch in **C++**</code>
   
 </div>
 
