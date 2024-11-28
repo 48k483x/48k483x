@@ -9,9 +9,9 @@
 ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝      ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Low-level+Programming+Enthusiast;42+Student;System+Architecture+Passionate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Low-level+Programming;42+Student;System+Architecture+Learner)](https://git.io/typing-svg)
   
-  *Mobile App Developer & Low-level Programming Enthusiast | 42-1337 Student*
+  *Low-level Programming Learner | 42-1337 Student*
 
   [![42 School](https://img.shields.io/badge/42--1337-000000?style=for-the-badge&logo=42&logoColor=white)](https://1337.ma/)
   [![Profile Views](https://komarev.com/ghpvc/?username=48k483x&style=for-the-badge&color=0e75b6)](https://github.com/48k483x)
@@ -26,12 +26,6 @@
 ```javascript
 const abdu = {
     education: "42-1337",
-    passions: [
-        "Mobile Development",
-        "Low-level Programming",
-        "System Architecture",
-        "Cross-platform Solutions"
-    ],
     currentlyLearning: ["iOS Development", "System Programming"],
 };
 ```
@@ -40,8 +34,6 @@ const abdu = {
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Low-level & Systems Programming
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
