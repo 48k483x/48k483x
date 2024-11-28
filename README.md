@@ -57,7 +57,7 @@ const abdu = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 
-## 📫 Let's Connect!
+## 📫 Info!
 
 <div align="center">
 
