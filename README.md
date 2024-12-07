@@ -53,10 +53,6 @@ const abdu = {
 ![Vim/Neovim](https://img.shields.io/badge/Vim/Neovim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 
-### Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
-
 ## 📫 Info!
 
 <div align="center">
