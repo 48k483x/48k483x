@@ -8,14 +8,6 @@
 ██║  ██║███████╗███████╗███████╗╚██████╔╝     ██║
 ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝      ╚═╝
 ```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Low-level+Programming;42+Student;System+Architecture+Learner)](https://git.io/typing-svg)
-  
-  *Low-level Programming Learner | 42-1337 Student*
-
-  [![42 School](https://img.shields.io/badge/42--1337-000000?style=for-the-badge&logo=42&logoColor=white)](https://1337.ma/)
-  [![Profile Views](https://komarev.com/ghpvc/?username=48k483x&style=for-the-badge&color=0e75b6)](https://github.com/48k483x)
-
   <br>
   <code>🚧 Currently Building an HTTP server from scratch in C</code>
   
