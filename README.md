@@ -56,16 +56,6 @@ const abdu = {
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=48k483x&layout=compact&theme=dark)](https://github.com/48k483x)
-
-</div>
-
----
-
 <div align="center">
   
 *“Assembly language is the best way to build the skills needed to understand how the entire programming universe works.” - Jeff Duntemann*
