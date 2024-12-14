@@ -25,8 +25,3 @@ const abdu = {
 
 </div>
 
-<div align="center">
-  
-*“Assembly language is the best way to build the skills needed to understand how the entire programming universe works.” - Jeff Duntemann*
-
-</div>
