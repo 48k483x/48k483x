@@ -42,7 +42,7 @@ const abdu = {
 
 ### Development Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vim/Neovim](https://img.shields.io/badge/Vim/Neovim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim/Neovim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 
 ## 📫 Info!
