@@ -14,7 +14,7 @@ const abdu = {
 ### Tools I Use
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-## 📫 Info!
+## 📫
 
 <div align="center">
 
