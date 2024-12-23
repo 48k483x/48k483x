@@ -5,7 +5,6 @@ const abdu = {
     tools: ["Linux", "Vim"],
     contact: {
         email: "abderrahmanech@outlook.fr",
-        twitter: "@48k483x",
-        linkedin: "abkabex"
+        twitter: "@48k483x"
     }
 };
