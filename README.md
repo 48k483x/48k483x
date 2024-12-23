@@ -1,6 +1,6 @@
 ```javascript
 const abdu = {
-    education: "42-1337",
+    education: "42",
     currentLearning: ["iOS Development", "System Programming", "Flutter", "C", "C++", "Assembly"],
     tools: ["Linux", "Vim"],
     contact: {
