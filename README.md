@@ -22,7 +22,7 @@ section .data
 struct abdu {
     char *edu = "42";
     char *learning[] = {"iOS", "Systems", "Flutter", "C/C++", "ASM"};
-    char *tools = "Vim + tmux";
+    char *tools = "Tmux + vim";
     char *email = "abderrahmanech@outlook.fr";
     char *twitter = "@48k483x";
 } me;
