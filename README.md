@@ -1,6 +1,5 @@
-<!-- ```javascript
+```javascript
 const abdu = {
-    education: "42",
     currentLearning: ["iOS Development", "System Programming", "Flutter", "C", "Assembly"],
     tools: "Vim + tmux",
     contact: {
@@ -9,6 +8,7 @@ const abdu = {
     }
 };
 ```
+<!--
 ```asm
 section .data
     me:
@@ -18,12 +18,12 @@ section .data
         db "abderrahmanech@outlook.fr", 0
         db "@48k483x", 0
 ``` -->
-```c
+<!--```c
 struct abdu {
-    char *edu = "42";
     char *learning[] = {"iOS", "Systems", "Flutter", "C/C++", "ASM"};
     char *tools = "Tmux + vim";
     char *email = "abderrahmanech@outlook.fr";
     char *twitter = "@48k483x";
 } me;
 ```
+-->
