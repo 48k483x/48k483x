@@ -2,10 +2,7 @@
 const abdu = {
     currentLearning: ["iOS Development", "System Programming", "Flutter", "C", "Assembly"],
     tools: "Vim + tmux",
-    contact: {
-        email: "abderrahmanech@outlook.fr",
-        twitter: "@48k483x"
-    }
+    email: "abderrahmanech@outlook.fr"
 };
 ```
 <!--
@@ -23,7 +20,6 @@ struct abdu {
     char *learning[] = {"iOS", "Systems", "Flutter", "C/C++", "ASM"};
     char *tools = "Tmux + vim";
     char *email = "abderrahmanech@outlook.fr";
-    char *twitter = "@48k483x";
 } me;
 ```
 -->
