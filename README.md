@@ -1,7 +1,7 @@
 ```javascript
 const abdu = {
     currentLearning: ["iOS Development", "System Programming", "Flutter", "C", "Assembly"],
-    tools: "Vim + tmux",
+    tools: "vim + tmux",
     email: "abderrahmanech@outlook.fr"
 };
 ```
